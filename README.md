@@ -1,4 +1,4 @@
-# vendetta-pluggins-list
+# vendetta-plugins-list
 A list of available plugins for the Vendetta mod for Discord's mobile apps
 # Submission
 To submit your plugin to this list, make a GitHub issue. ***You MUST include the **proxied** link of your plugin SOMEWHERE in the issue.***
